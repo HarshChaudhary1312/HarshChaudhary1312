@@ -1,9 +1,9 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:970/0*1geNIsiclzJROVrH.png)
 <h2 align="center">Hi 👋! My name is Harsh Chaudhary .</h2>
 
 ###
 
-<h3 align="center">I'm a 3rd year B.Tech CSE student from VIT-Chennai and I'm a passionate Web Developer and LeetCode Enthusiast.</h3>
+<h3 align="center">I'm a 3rd year B.Tech CSE student from SRM IST-RAMAPURAM and I'm a passionate Data Analyst.</h3>
 
 ###
 
