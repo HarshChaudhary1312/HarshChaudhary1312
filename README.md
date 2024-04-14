@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishal-1004&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal-1004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=HarshChaudhary1312&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshChaudhary1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
 ###
