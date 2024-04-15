@@ -1,4 +1,4 @@
-    ![MasterHead](https://miro.medium.com/v2/resize:fit:970/0*1geNIsiclzJROVrH.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:970/0*1geNIsiclzJROVrH.png)
 <h2 align="center">Hi 👋! My name is Harsh Chaudhary .</h2>
 
 ###
