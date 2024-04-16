@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="Canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
   <img width="12" />
