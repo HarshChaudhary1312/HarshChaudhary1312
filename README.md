@@ -23,11 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysqllogo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/fluency/240/microsoft-excel-2019.png" alt="microsoft-excel-2019" height="40" alt="javascript logo"  />
+  <img src="https://img.icons8.com/fluency/240/microsoft-excel-2019.png" alt="microsoft-excel-2019" height="40" alt="excelt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://img.icons8.com/fluency/240/power-bi-2021.png" alt="power-bi-2021" height="40"   />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" height="40" alt="tableau logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
