@@ -31,11 +31,12 @@
   <img width="12" />
   <img src="https://img.icons8.com/fluency/240/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="30" alt="replit logo"  />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" 
+   alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo" height="30" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
 </div>
 
 ###
