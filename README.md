@@ -1,4 +1,4 @@
-![MasterHead](https://collection.cloudinary.com/dx9x5sz82/adf8a0360d80bf9d6f0df3dab4fe7884)
+![MasterHead](https://www.atomcamp.com/wp-content/uploads/2024/02/data-analytics-1.jpg)
 <h2 align="center">Hi 👋! My name is Harsh Chaudhary .</h2>
 
 ###
