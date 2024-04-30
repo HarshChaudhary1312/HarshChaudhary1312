@@ -15,6 +15,8 @@
 ###
 
 <div align="center">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Collab logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="Canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
