@@ -32,9 +32,9 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" 
    alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo" height="40" />
   <img width="12" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Collab logo"  />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="45" alt="Collab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="45" alt="Canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="Canva logo"  />
   <img width="12" />
 
 </div>
