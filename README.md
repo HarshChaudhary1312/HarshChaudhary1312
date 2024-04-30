@@ -48,6 +48,7 @@
   </a>
   <a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img width="12"
   </a>
   <a href="https://linktr.ee/harsh_1312" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
