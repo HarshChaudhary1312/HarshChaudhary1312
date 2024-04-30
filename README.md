@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/fluency/240/power-bi-2021.png" alt="power-bi-2021" height="40"   />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" height="40" alt="tableau logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" height="45" alt="tableau logo"  />
   <img width="14" />
   <img src="https://img.icons8.com/fluency/240/microsoft-excel-2019.png" alt="microsoft-excel-2019" height="40"  />
   <img width="12" />
