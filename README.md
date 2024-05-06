@@ -1,4 +1,4 @@
-<img src="https://github.com/HarshChaudhary1312/HarshChaudhary1312/blob/main/Colored%20Gradient%20Illustration%20Data%20Analysis%20Instagram%20Post%20(1).png?raw=true" height="300">
+<img src="https://github.com/HarshChaudhary1312/HarshChaudhary1312/blob/main/Untitled%20design.gif?raw=true" height="300">
 <h2 align="center">Hi 👋! My name is Harsh Chaudhary .</h2>
 
 ###
