@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/540/1*J_EXEmUkOcg-rgzJudUhZQ.png" height="400">
+<img src="https://github.com/HarshChaudhary1312/EXCEL-Orders_Data_Analysis/blob/main/Order's%20Dashboard.png?raw=true" height="400">
 <h2 align="center">Hi 👋! My name is Harsh Chaudhary .</h2>
 
 ###
