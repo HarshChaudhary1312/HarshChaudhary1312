@@ -1,4 +1,4 @@
-<img src="https://github.com/HarshChaudhary1312/HarshChaudhary1312/blob/main/Portfolio%20Banner%20Git.gif?raw=true" height="600">
+<img src="https://github.com/HarshChaudhary1312/HarshChaudhary1312/blob/main/Data%20AnalysT.gif?raw=true" height="200">
 <h2 align="center">Hi 👋! My name is Harsh Chaudhary .</h2>
 
 ###
