@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">I'm a 3rd year B.Tech CSE student from SRM IST-RAMAPURAM and I'm a passionate Data Analyst.</h3>
+<h3 align="center">I'm a 4th year B.Tech CSE student from SRM IST-RAMAPURAM and I'm a passionate Data Analyst.</h3>
 
 ###
 
